@@ -1,0 +1,1 @@
+import{d as e,n,c as t,o}from"./index-5c8d04d2.js";const i=e({__name:"Learnview",setup(a){return window.document.title="算法狗",n(()=>{window.document.title=""}),(c,r)=>(o(),t("div"))}});export{i as default};
